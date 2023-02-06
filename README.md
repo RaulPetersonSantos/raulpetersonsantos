@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/RaulPetersonSantos/cca3571a14d685753a22eff979c156ac/raw/d47b95ac5807da3cba60d9fc3cfbebd10fb200dd/githubcard.svg"/>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/RaulPetersonSantos/cca3571a14d685753a22eff979c156ac/raw/ddee42920f89b2a980bfd5d15a31716857c7c8cc/githubcard.svg"/>
 
 <!--
 **RaulPetersonSantos/raulpetersonsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
