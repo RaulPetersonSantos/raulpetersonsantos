@@ -1,6 +1,5 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Raul Peterson</h1>
-
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/RaulPetersonSantos/cca3571a14d685753a22eff979c156ac/raw/1b881c39b5f3c93f03f856e732a0d4fa980c78fa/githubcard.svg"/>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Raul Peterson</h1>
 
 <br>
 
@@ -9,6 +8,7 @@
 - 💻 I’m currently working at [Valemobi](https://github.com/valemobi)
 
 - 🎓 I'm studying Analysis and Systems Development at São Paulo Tech School
+
 
 <br><br>
 
