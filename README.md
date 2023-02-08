@@ -1,20 +1,14 @@
-### Hi there 👋
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Raul Peterson</h1>
 
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/RaulPetersonSantos/cca3571a14d685753a22eff979c156ac/raw/ddee42920f89b2a980bfd5d15a31716857c7c8cc/githubcard.svg"/>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/RaulPetersonSantos/cca3571a14d685753a22eff979c156ac/raw/1b881c39b5f3c93f03f856e732a0d4fa980c78fa/githubcard.svg"/>
 
-
+<br>
 
 - 🔥 Mobile Developer 
 
 - 💻 I’m currently working at [Valemobi](https://github.com/valemobi)
 
 - 🎓 I'm studying Analysis and Systems Development at São Paulo Tech School
-
-- ▶️ I (not) regularly post videos on [youtube.com/maykbrito](https://youtube.com/maykbrito)
-
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
-
-- ⚡ Fun fact **Oneye 😜**
 
 <br><br>
 
