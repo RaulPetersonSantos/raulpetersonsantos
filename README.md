@@ -1,14 +1,15 @@
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Raul Peterson</h1>
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/RaulPetersonSantos/cca3571a14d685753a22eff979c156ac/raw/1b881c39b5f3c93f03f856e732a0d4fa980c78fa/githubcard.svg"/>
 <br>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Raul Peterson</h1>
+
 
 <br>
 
-- 🔥 Mobile Developer 
+- 💼 Mobile Developer 
 
 - 💻 I’m currently working at [Valemobi](https://github.com/valemobi)
 
-- 🎓 I'm studying Analysis and Systems Development at São Paulo Tech School
+- 📚 I'm studying Analysis and Systems Development at São Paulo Tech School
 
 
 <br><br>
@@ -22,10 +23,7 @@
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 
 <br>
 
